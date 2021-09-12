@@ -1,3 +1,9 @@
+# Moded Pomodoro Timer based on abhiks work
+
+![ModByTobealive](https://github.com/tobealive/pomodro-timer/blob/master/example.jpg)
+
+Following the Original Readme:
+
 # Pomodoro Timer with 🛎
 
 This is a simple pomodoro timer built for personal use ( any one can use ) for productivity💯
