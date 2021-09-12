@@ -1,8 +1,12 @@
-# Moded Pomodoro Timer based on abhiks work
+# Mod of abhiks Pomodoro Timer
+
+This is how it looks:
 
 ![ModByTobealive](https://github.com/tobealive/pomodro-timer/blob/master/example.jpg)
 
-Following the Original Readme:
+
+## Following the Original Readme:
+
 
 # Pomodoro Timer with 🛎
 
