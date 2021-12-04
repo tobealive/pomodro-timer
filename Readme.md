@@ -1,19 +1,16 @@
 # Abhiks Pomodoro Timer Mod
 
-_Customization as a part of a learning project._
+_Customization as part of a learning project after having a few years break from coding._
 
-_Even though the functionality itself was and currently is not as flawless as it could be. The timer does its job. 😊_
+_The functionality is not as flawless as it could be, but the timer does the job 😊._
 
-_I can recommend Abhiks channel as a learning resource anyway 100%._
-
+_Abhik's channel served as a good learning resource._
 
 **Preview:**
 
 ![ModByTobealive](https://github.com/tobealive/pomodro-timer/blob/master/example.jpg)
 
-
 ## Original Readme:
-
 
 > # Pomodoro Timer with 🛎
 >
@@ -45,5 +42,3 @@ _I can recommend Abhiks channel as a learning resource anyway 100%._
 > PageSpeed Insights scores:
 >
 > ![Pagespeedinsights](https://github.com/abhik-b/pomodro-timer/blob/master/pagespeedinsights.png)
-
-
