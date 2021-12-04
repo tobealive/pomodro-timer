@@ -2,7 +2,7 @@
 
 _Customization as a part of a learning project._
 
-_The timer function itself was and currently is not as flawless as it could be._
+_Even though the functionality itself was and currently is not as flawless as it could be. The timer does its job. 😊_
 
 _I can recommend Abhiks channel as a learning resource anyway 100%._
 
